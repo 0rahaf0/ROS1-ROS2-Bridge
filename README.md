@@ -65,3 +65,4 @@ unset ROS_VERSION
 Ensure all dependencies are installed.
 Ensure that the correct environment variables are sourced for each ROS version.
 Check for any residual ROS1 environment variables when sourcing ROS2.
+<img width="175" alt="bridge" src="https://github.com/user-attachments/assets/d0807f6f-e45e-421c-b938-6454abffa4e6">
